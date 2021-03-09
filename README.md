@@ -20,24 +20,6 @@ settings.json editieren:
 
 ![Bild 1](Bilder_Markdown/settingsjson.jpg)
 
-**Vargant**
-
-Vargant installieren unter:
-
-[https://www.vagrantup.com/](https://www.vagrantup.com/)
-
-Vagrant File erstellen:
-
-![Vagrant File erstellen](Bilder_Markdown/VagrantFileerstellen.jpg)
-
-Vagrant virtuelle Maschine erstellen:
-
-![Vagrant VM erstellen](Bilder_Markdown/VagrantVMerstellen.jpg)
-
-Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit der VM eingeben:
-
-![SSH Verbingung zu VM](Bilder_Markdown/VagrantSSH.jpg)
-
 **Git-Hub Account erstellen unter**
 
 [https://github.com/](https://github.com/)
@@ -49,7 +31,6 @@ Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit de
 **SSH-Key erstellen:**
 
 ![SSH Key erstellen](Bilder_Markdown/SSHKeyerstellen.jpg)
-
 
 **SSH-Key dem SSH-Agent hinzufügen**
 
@@ -116,3 +97,21 @@ Upload commiten:
 Und zu guter Letzt Upload pushen:
 
 ![Upload push](Bilder_Markdown/Uploadpush.jpg)
+
+**Vargant**
+
+Vargant installieren unter:
+
+[https://www.vagrantup.com/](https://www.vagrantup.com/)
+
+Vagrant File erstellen:
+
+![Vagrant File erstellen](Bilder_Markdown/VagrantFileerstellen.jpg)
+
+Vagrant virtuelle Maschine erstellen:
+
+![Vagrant VM erstellen](Bilder_Markdown/VagrantVMerstellen.jpg)
+
+Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit der VM eingeben:
+
+![SSH Verbingung zu VM](Bilder_Markdown/VagrantSSH.jpg)
