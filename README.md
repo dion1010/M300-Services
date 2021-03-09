@@ -18,7 +18,7 @@ Oder man kann auch als alternative HyperV benutzen.
 
 settings.json editieren:
 
-[Bild 1]: C:\Users\Dion_\Dokumente\02_TBZ\01_Module\Modul_300\Bilder_Markdown\settingsjson.png
+[Bild 1]: C:\Users\Dion_\Dokumente\02_TBZ\01_Module\Modul_300\Bilder_Markdown\settingsjson.jpg
 
 **Vargant**
 
