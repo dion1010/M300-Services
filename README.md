@@ -18,7 +18,7 @@ Oder man kann auch als alternative HyperV benutzen.
 
 settings.json editieren:
 
-[Bild 1]: C:\Users\Dion_\M300-Dion\MeinLokalesRepository\M300-Services\Bilder_Markdown\settingsjson.jpg
+[Bild 1]:(C:\Users\Dion_\M300-Dion\MeinLokalesRepository\M300-Services\Bilder_Markdown\settingsjson.jpg)
 
 **Vargant**
 
