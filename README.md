@@ -16,23 +16,23 @@ Oder man kann auch als alternative HyperV benutzen.
 
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-settings.json editieren:
+**settings.json editieren:**
 
 ![Bild 1](Bilder_Markdown/settingsjson.jpg)
 
-## Git-Hub Account erstellen unter
+**Git-Hub Account erstellen unter:**
 
 [https://github.com/](https://github.com/)
 
-## Neues Projekt starten im Dashboard
+**Neues Projekt starten im Dashboard:**
 
 ![Neues Projekt starten](Bilder_Markdown/NeuesRepositoryerstellen.jpg)
 
-## SSH-Key erstellen
+**SSH-Key erstellen**
 
 ![SSH Key erstellen](Bilder_Markdown/SSHKeyerstellen.jpg)
 
-### SSH-Key dem SSH-Agent hinzufügen
+**SSH-Key dem SSH-Agent hinzufügen**
 
 ![SSH-Key dem SSH-Agent hinzugügen](Bilder_Markdown/SSHKeyhinzufuegen.jpg)
 
@@ -48,17 +48,17 @@ So sollte es am Ende aussehen.
 
 ## Git-Client
 
-### Installer herunterladen:
+**Installer herunterladen:**
 
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 Während der Installation sollte man beim Wizzard alles beim Standard belassen.
 
-### Git-Client konfigurieren:
+**Git-Client konfigurieren:**
 
 ![Git-Client erstellen](Bilder_Markdown/GitClienterstellen.jpg)
 
-### Repository clonen:
+**Repository clonen:**
 
 Zuerst muss man die Bash öffnen.
 
@@ -76,42 +76,42 @@ Nun Repository aktualisieren und anzeigen:
 
 ## Repository herunterladen &amp; aktualisieren (clone/pull):
 
-### Clone:
+**Clone:**
 
 ![Git clone](Bilder_Markdown/Gitclone.jpg)
 
-### Aktualisieren:
+**Aktualisieren:**
 
 ![Git pull](Bilder_Markdown/Gitpull.jpg)
 
-### Repository hochladen:
+**Repository hochladen:**
 
 Dateien dem Upload hinzufügen:
 
 ![Dateien uploaden](Bilder_Markdown/Dateiuploaden.jpg)
 
-### Upload commiten:
+**Upload commiten:**
 
 ![Upload commit](Bilder_Markdown/Uploadcommit.jpg)
 
-### Und zu guter Letzt Upload pushen:
+**Und zu guter Letzt Upload pushen:**
 
 ![Upload push](Bilder_Markdown/Uploadpush.jpg)
 
 ## Vargant
 
-### Vargant installieren unter:
+**Vargant installieren unter:**
 
 [https://www.vagrantup.com/](https://www.vagrantup.com/)
 
-### Vagrant File erstellen:
+**Vagrant File erstellen:**
 
 ![Vagrant File erstellen](Bilder_Markdown/VagrantFileerstellen.jpg)
 
-### Vagrant virtuelle Maschine erstellen:
+**Vagrant virtuelle Maschine erstellen:**
 
 ![Vagrant VM erstellen](Bilder_Markdown/VagrantVMerstellen.jpg)
 
-### Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit der VM eingeben:
+**Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit der VM eingeben:**
 
 ![SSH Verbingung zu VM](Bilder_Markdown/VagrantSSH.jpg)
