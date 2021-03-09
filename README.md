@@ -18,7 +18,7 @@ Oder man kann auch als alternative HyperV benutzen.
 
 settings.json editieren:
 
-![](RackMultipart20210309-4-9zpr0z_html_c8fc9921d253110c.png)
+<img src="C:\Users\Dion_\OneDrive - TBZ\Dokumente\02_TBZ\01_Module\Modul_300\Bilder_Markdown" alt="Alt-Text" title="" />
 
 **Vargant**
 
