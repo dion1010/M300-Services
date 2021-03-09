@@ -18,7 +18,7 @@ Oder man kann auch als alternative HyperV benutzen.
 
 settings.json editieren:
 
-<img src="C:\Users\Dion_\OneDrive - TBZ\Dokumente\02_TBZ\01_Module\Modul_300\Bilder_Markdown" alt="Alt-Text" title="" />
+[Bild 1]: C:\Users\Dion_\OneDrive - TBZ\Dokumente\02_TBZ\01_Module\Modul_300\Bilder_Markdown
 
 **Vargant**
 
