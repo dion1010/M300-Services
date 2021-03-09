@@ -75,7 +75,7 @@ Während der Installation sollte man beim Wizzard alles beim Standard belassen.
 
 Git-Client konfigurieren:
 
-![](RackMultipart20210309-4-9zpr0z_html_d7dcc6e8e3564f7.png)
+![Git-Client erstellen](Bilder_Markdown/GitClienterstellen.jpg)
 
 Repository clonen:
 
@@ -83,36 +83,36 @@ Zuerst muss man die Bash öffnen.
 
 Anschlissend mit folgendem Befehl das Repository clonen:
 
-![](RackMultipart20210309-4-9zpr0z_html_2f4e695d9c1af6d.png)
+![Git Repository clonen](Bilder_Markdown/GitRepositoryclonen.jpg)
 
 In das neue M300-Verzeichnis wechseln:
 
-![](RackMultipart20210309-4-9zpr0z_html_4c86cc7d3b6b77d6.png)
+![Git Bash Verzeichnis wechseln](Bilder_Markdown/GitVerzeichniswechseln.jpg)
 
 Nun Repository aktualisieren und anzeigen:
 
-![](RackMultipart20210309-4-9zpr0z_html_3644de1dc694d902.png)
+![Git Repository aktualisieren und anzeigen](Bilder_Markdown/GitRepositoryaktualisierenundanzeigen.png)
 
 Repository herunterladen &amp; aktualisieren (clone/pull):
 
 Clone:
 
-![](RackMultipart20210309-4-9zpr0z_html_5b1ddb1e5ba17c89.png)
+![Git clone](Bilder_Markdown/Gitclone.jpg)
 
 Aktualisieren:
 
-![](RackMultipart20210309-4-9zpr0z_html_733485313899e5c1.png)
+![Git pull](Bilder_Markdown/Gitpull.jpg)
 
 Repository hochladen:
 
 Dateien dem Upload hinzufügen:
 
-![](RackMultipart20210309-4-9zpr0z_html_b95840ac1e3a1619.png)
+![Dateien uploaden](Bilder_Markdown/Dateiuploaden.jpg)
 
 Upload commiten:
 
-![](RackMultipart20210309-4-9zpr0z_html_d89ca21eefdc9095.png)
+![Upload commit](Bilder_Markdown/Uploadcommit.jpg)
 
 Und zu guter Letzt Upload pushen:
 
-![](RackMultipart20210309-4-9zpr0z_html_854cb3436f15a60a.png)
+![Upload push](Bilder_Markdown/Uploadpush.jpg)
