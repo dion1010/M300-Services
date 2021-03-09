@@ -28,15 +28,15 @@ Vargant installieren unter:
 
 Vagrant File erstellen:
 
-![](RackMultipart20210309-4-9zpr0z_html_1a67d0b2545f1b66.png)
+![Vagrant File erstellen](Bilder_Markdown/VagrantFileerstellen.jpg)
 
 Vagrant virtuelle Maschine erstellen:
 
-![](RackMultipart20210309-4-9zpr0z_html_82a809a740bef87c.png)
+![Vagrant VM erstellen](Bilder_Markdown/VagrantVMerstellen.jpg)
 
 Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit der VM eingeben:
 
-![](RackMultipart20210309-4-9zpr0z_html_26cd78e4d5eaf5ea.png)
+![SSH Verbingung zu VM](Bilder_Markdown/VagrantSSH.jpg)
 
 **Git-Hub Account erstellen unter**
 
@@ -44,21 +44,24 @@ Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit de
 
 **Neues Projekt starten im Dashboard**
 
-![](RackMultipart20210309-4-9zpr0z_html_daf1ab5a37c8ddda.png)
+![Neues Projekt starten](Bilder_Markdown/NeuesRepositoryerstellen.jpg)
 
 **SSH-Key erstellen:**
 
-![](RackMultipart20210309-4-9zpr0z_html_d399a4aa7a4b08a.png)
+![SSH Key erstellen](Bilder_Markdown/SSHKeyerstellen.jpg)
 
-![](RackMultipart20210309-4-9zpr0z_html_d8b1152c493a0ff7.gif)
+
 **SSH-Key dem SSH-Agent hinzufügen**
 
-![](RackMultipart20210309-4-9zpr0z_html_3697ae05e0998a18.gif)
+![SSH-Key dem SSH-Agent hinzugügen](Bilder_Markdown/SSHKeyhinzufuegen.jpg)
+
  Inhalt der zuvor erstellten id\_rsa.pub Datei in die Zwischenablage kopieren.
+
+![Inhalt der Datei kopieren](Bilder_Markdown/Inhaltrsapubkopieren.jpg)
 
 Unter dem Feld «Key» muss man den davor kopierten Inhalt der PUB Dateien kopieren.
 
-![](RackMultipart20210309-4-9zpr0z_html_bc125895e5c504ab.png)
+![SSH-Key nachdem er hinzugefügt wurde](Bilder_Markdown/SSHKEY.jpg)
 
 So sollte es am Ende aussehen.
 
