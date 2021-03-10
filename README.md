@@ -1,8 +1,6 @@
 # M300-Services
 
 ## Inhaltsverzeichnis
-<a name="Virtuellen Host installieren"></a>
-- [Virtuelen Host installieren](#Virtuellen Host installieren)
 
 ## Virtuellen Host installieren
 
@@ -119,3 +117,9 @@ Dateien dem Upload hinzufügen:
 **Verzeichnis der VM wechseln und folgenden Befehl für eine SSH Verbindung mit der VM eingeben:**
 
 ![SSH Verbingung zu VM](Bilder_Markdown/VagrantSSH.jpg)
+
+## Vagrant VM von Cloud downloaden
+
+Zuerst sollte man überhaupt nach einer bestimmten Box suchen die man downloaden möchte:
+
+![Vagrant Cloud search]()
