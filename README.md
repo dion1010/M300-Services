@@ -24,8 +24,6 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 
 **SSH-Key dem SSH-Agent hinzufügen**
 
- Inhalt der zuvor erstellten id\_rsa.pub Datei in die Zwischenablage kopieren.
-
 ![SSH-Key dem SSH-Agent hinzugügen](Bilder_Markdown/SSHKeyhinzufuegen.jpg)
 
 Unter dem Feld «Key» muss man den davor kopierten Inhalt der PUB Dateien kopieren.
@@ -121,3 +119,5 @@ Nachdem man dann gefunden hat was man möchte und auch nachgeschaut hat, ob es k
 Sobald der download vollendet ist kann man das ganze mit dem Befehl:
 
  **vagrant up "Name der Box"**
+
+ Test
