@@ -28,7 +28,7 @@ So sollte es am Ende aussehen.
 
  ## ![](Bilder_Markdown/githublogo.png "GitHub") Git-Client
 
- [**Nach oben**](#inhaltsverzeichnis)
+ [**Nach oben**](#10_toolumgebung)
 
 **Installer herunterladen:**
 
@@ -41,7 +41,8 @@ Während der Installation sollte man beim Wizzard alles beim Standard belassen.
 ![Git-Client erstellen](../Bilder_Markdown/GitClienterstellen.jpg)
 
 ## ![](Bilder_Markdown/gitbashlogo.jpg "GitClient") Repository
-[**Nach oben**](#inhaltsverzeichnis)
+
+[**Nach oben**](#10_toolumgebung)
 
 **Repository clonen:**
 
@@ -85,7 +86,7 @@ Dateien dem Upload hinzufügen:
 
 ## Vagrant
 
-[**Nach oben**](#inhaltsverzeichnis)
+[**Nach oben**](#10_toolumgebung)
 
 **Vargant installieren unter:**
 
