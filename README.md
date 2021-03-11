@@ -6,7 +6,7 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 
 ## Inhaltsverzeichnis
 
-* 01 - [GitHub Account](#-01---github-account)
+* 01 - [GitHub Account](#git-hub account)
 
 ## Git-Hub Account
 
