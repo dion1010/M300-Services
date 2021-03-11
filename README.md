@@ -6,7 +6,7 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 
 ## Inhaltsverzeichnis
 
-* 01 - [GitHub Account](#git-hub-account)
+* 01 - [GitHub Account](10_Toolumgebung)
 * 02 - [Git-Client](#git-client)
 * 03 - [Repository](#repository)
 * 04 - [Vagrant](#vagrant)
@@ -37,7 +37,7 @@ So sollte es am Ende aussehen.
 
 ![SSH-Key nachdem er hinzugefügt wurde](Bilder_Markdown/SSHKEY.jpg)
 
- ##  Git-Client
+ ## ![](Bilder_Markdown/githublogo.png "GitHub") Git-Client
 
  [**Nach oben**](#inhaltsverzeichnis)
 
@@ -51,7 +51,7 @@ Während der Installation sollte man beim Wizzard alles beim Standard belassen.
 
 ![Git-Client erstellen](Bilder_Markdown/GitClienterstellen.jpg)
 
-## Repository
+## ![](Bilder_Markdown/gitbashlogo.jpg "GitClient") Repository
 [**Nach oben**](#inhaltsverzeichnis)
 
 **Repository clonen:**
