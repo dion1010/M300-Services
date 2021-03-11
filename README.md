@@ -7,21 +7,6 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 ## Inhaltsverzeichnis
 
 * 01 - [10-Toolumgebung](10_Toolumgebung)
-* 02 - [Git-Client](#git-client)
+* 02 - [20-Infrastruktur-Automatisierung](/20_Infrastruktur_automatisierung)
 * 03 - [Repository](#repository)
 * 04 - [Vagrant](#vagrant)
-
-**Vagrant VM von Cloud downloaden**
-
-Zuerst sollte man überhaupt nach einer bestimmten Box suchen die man downloaden möchte:
-
-![Vagrant Cloud search](Bilder_Markdown/Cloudsearch.jpg)
-
-Nachdem man dann gefunden hat was man möchte und auch nachgeschaut hat, ob es kompatibel ist mit der Virtualisierungslösung die man verwendet, kann man weiter gehen zum download:
-
-![Vagrant Cloud download](Bilder_Markdown/Clouddownload.jpg)
-
-Sobald der download vollendet ist kann man das ganze mit dem Befehl:
-
- **vagrant up "Name der Box"**
-
