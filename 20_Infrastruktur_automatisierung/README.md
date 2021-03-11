@@ -20,4 +20,4 @@ Nachdem man dann gefunden hat was man möchte und auch nachgeschaut hat, ob es k
 
 Sobald der download vollendet ist kann man das ganze mit dem Befehl:
 
- **vagrant up "Name der Box"**
+ `vagrant up "Name der Box"`
