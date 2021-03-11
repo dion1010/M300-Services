@@ -18,6 +18,26 @@ Nachdem man dann gefunden hat was man möchte und auch nachgeschaut hat, ob es k
 
 ![Vagrant Cloud download](../Bilder_Markdown/Clouddownload.jpg)
 
-Sobald der download vollendet ist kann man das ganze mit dem Befehl:
+Sobald der download vollendet ist kann man nochmals mit dem folgenden Befehl korrigieren ob es wirklich heruntergeladen wurde:
 
- `vagrant up "Name der Box"`
+`vagrant box list`
+
+BILD
+
+(OPTIONAL)Nun kann man einen weitren Ordner erstellen indem man die VM dann erstellt:
+
+`mkdir myserver`
+
+BILD
+
+Nun die neue Vagrant Umgebung (VM) ind dem Verzeichnis erstellen:
+
+`vagrant init "Name der Box"`
+
+BILD
+
+Zu guter Letzt kann man die VM starten:
+
+ `vagrant up`
+
+ 
