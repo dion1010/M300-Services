@@ -11,7 +11,7 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 * 03 - [Repository](#repository)
 * 04 - [Vagrant](#vagrant)
 
-## Git-Hub Account
+## ![](Bilder_Markdown/githublogo.png "GitHub") Git-Hub Account
 
 **Git-Hub Account erstellen unter:**
 
