@@ -7,7 +7,7 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 ## Inhaltsverzeichnis
 
 
-### Git-Hub
+## Git-Hub
 **Git-Hub Account erstellen unter:**
 
 [https://github.com/](https://github.com/)
@@ -34,7 +34,7 @@ So sollte es am Ende aussehen.
 
 ![SSH-Key nachdem er hinzugefügt wurde](Bilder_Markdown/SSHKEY.jpg)
 
- ### Git-Client
+ ##  Git-Client
 
 **Installer herunterladen:**
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
@@ -45,6 +45,8 @@ Während der Installation sollte man beim Wizzard alles beim Standard belassen.
 
 ![Git-Client erstellen](Bilder_Markdown/GitClienterstellen.jpg)
 
+## Repository
+
 **Repository clonen:**
 
 Zuerst muss man die Bash öffnen.
@@ -53,7 +55,7 @@ Anschlissend mit folgendem Befehl das Repository clonen:
 
 ![Git Repository clonen](Bilder_Markdown/GitRepositoryclonen.jpg)
 
-In das neue M300-Verzeichnis wechseln:
+In das neue M300-Verzeichnis wechseln, welches man davor erstellt hat:
 
 ![Git Bash Verzeichnis wechseln](Bilder_Markdown/GitVerzeichniswechseln.jpg)
 
@@ -61,7 +63,7 @@ Nun Repository aktualisieren und anzeigen:
 
 ![Git Repository aktualisieren und anzeigen](Bilder_Markdown/GitRepositoryaktualisierenundanzeigen.png)
 
-## Repository herunterladen &amp; aktualisieren (clone/pull):
+**Repository herunterladen &amp; aktualisieren (clone/pull):**
 
 **Clone:**
 
