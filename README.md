@@ -6,8 +6,10 @@ Dies ist eine Dokumentation der LB01 im Modul 300. In dieser Dokumentation werde
 
 ## Inhaltsverzeichnis
 
+* 01 - [GitHub Account](#-01---github-account)
 
-## Git-Hub
+## Git-Hub Account
+
 **Git-Hub Account erstellen unter:**
 
 [https://github.com/](https://github.com/)
@@ -37,6 +39,7 @@ So sollte es am Ende aussehen.
  ##  Git-Client
 
 **Installer herunterladen:**
+
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 Während der Installation sollte man beim Wizzard alles beim Standard belassen.
