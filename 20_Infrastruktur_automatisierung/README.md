@@ -4,7 +4,9 @@
 
 ## Inhaltsverzeichnis
 
-* 01 - [Vagrant](#-git-hub-account)
+* 01 - [Vagrant Cloud](#vagrant-cloud)
+
+## Vagrant Cloud
 
 **Vagrant VM von Cloud downloaden**
 
